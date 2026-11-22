@@ -2,9 +2,9 @@
 
 My personal developer portfolio showcasing my projects, skills, experience, and contact information.
 
-🌐 **Live Website:** https://daniel-portfolio-v2-iota.vercel.app
+🌐 **Live Website:** https://portfolio-dami8.vercel.app
 
-## ✨ About
+##  About
 
 This portfolio was built to showcase my work as a Computer Science student and web developer.
 
