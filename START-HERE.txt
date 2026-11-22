@@ -1,0 +1,16 @@
+DANIEL LAWAL — LIQUID GLASS PORTFOLIO
+
+Extract the ZIP, then open PowerShell in the extracted project folder.
+With Python installed, run:
+
+  py -m http.server 4173 --bind 127.0.0.1 --directory dist
+
+Open http://localhost:4173 in your browser. On macOS or Linux, use python3
+in place of py. Press Ctrl+C to stop the preview server.
+
+Try X-Ray on the portrait, choose Glass, and move the blur slider.
+Scroll through Selected Work and open either case study. On a narrow screen
+the project previews appear inline above their descriptions.
+
+To edit the React source with Node.js installed, run npm ci and npm run dev.
+Contact email delivery requires the Vercel function and Resend configuration.
